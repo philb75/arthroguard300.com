@@ -1,0 +1,8 @@
+
+User-agent: *
+Disallow: /2a8h136
+User-agent: Bingbot
+User-agent: Googlebot
+User-agent: Slurp
+Disallow:
+Sitemap: https://arthroguard300.com/2a8h136/sitemap.xml
